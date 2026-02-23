@@ -11,8 +11,8 @@ set -uo pipefail
 # ─────────────────────────────────────────────
 #  KONFIGURACJA — zmień tutaj swoje ustawienia
 # ─────────────────────────────────────────────
-DISTRO_NAME="MyLinux"
-DISTRO_PRETTY="MyLinux OS"
+DISTRO_NAME="444vx"
+DISTRO_PRETTY="444vx OS"
 DISTRO_VERSION="1.0"
 DISTRO_HOME_URL="https://example.com"
 
